@@ -1,0 +1,135 @@
+﻿<!doctype html>
+<html lang="es">
+<head>
+    <meta charset="utf-8">
+
+    <title>Game</title>
+    <meta name="description" content="Windows App by Carlos Arce Sherader">
+    <meta name="author" content="Carlos Arce Sherader">
+
+    <link rel="stylesheet" href="css/default.css">
+
+    <!--[if lt IE 9]>
+    <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+</head>
+
+<body>
+    <div id="loading">
+        <div id="imagen-load">
+            <img src="images/logo-medium.png" />
+        </div>
+    </div>
+    <!-- 2 OPTIONS SCREEN: LEFT FOR WINNER AND RIGHT FOR LOOSER -->
+    <div id="splitted-screen">
+        <div id="left-option"></div>
+        <div id="right-option"><!--<img src="images/logo-neomundo.png" style="float:right" />--></div>
+    </div>
+    <!-- END 2 OPTIONS SCREEN -->
+    <header>
+        <div id="logo">
+            <a href="#" onclick="reloadGame();">
+                <img src="images/1x1.png" width="290" height="200" />
+            </a>
+        </div>
+        <div id="tries">
+            <span id="triescont">
+                <img src="images/coin.png" />
+                Monedas: <span id="numtries">3</span>
+            </span></div>
+    </header>
+
+    <section id="container">
+        <div id="roulette-cont">
+            <div class="roulette-1 drouf roucont">
+                <img src="images/logoslot.png" />
+                <img src="images/cuzcoslot.png" />
+                <img src="images/iguazuslot.png" />
+                <img src="images/sanandresslot.png" />
+                <img src="images/panamaslot.png" />
+                <img src="images/cartagenaslot.png" />
+                <img src="images/iquitosslot.png" />
+                <img src="images/orlandoslot.png" />
+                <img src="images/rmayaslot.png" />
+                <img src="images/sanandresslot.png" />
+                <img src="images/varaderoslot.png" />
+                <img src="images/cancunslot.png" />
+            </div>
+            <div class="roulette-2 drou roucont">
+                <img src="images/logoslot.png" />
+                <img src="images/cuzcoslot.png" />
+                <img src="images/iguazuslot.png" />
+                <img src="images/sanandresslot.png" />
+                <img src="images/panamaslot.png" />
+                <img src="images/cartagenaslot.png" />
+                <img src="images/iquitosslot.png" />
+                <img src="images/orlandoslot.png" />
+                <img src="images/rmayaslot.png" />
+                <img src="images/sanandresslot.png" />
+                <img src="images/varaderoslot.png" />
+                <img src="images/cancunslot.png" />
+            </div>
+            <div class="roulette-3 drou roucont">
+                <img src="images/logoslot.png" />
+                <img src="images/cuzcoslot.png" />
+                <img src="images/iguazuslot.png" />
+                <img src="images/sanandresslot.png" />
+                <img src="images/panamaslot.png" />
+                <img src="images/cartagenaslot.png" />
+                <img src="images/iquitosslot.png" />
+                <img src="images/orlandoslot.png" />
+                <img src="images/rmayaslot.png" />
+                <img src="images/sanandresslot.png" />
+                <img src="images/varaderoslot.png" />
+                <img src="images/cancunslot.png" />
+            </div>
+        </div>
+        <div id="controls">
+            <button name="btnStart" id="btnStart"></button>
+        </div>
+    </section>
+
+    <div id="winner-content">
+        <div id="dw1" class="bgspliter">
+            <img src="images/gif/fuegos.gif" /><br />
+            <img src="images/gif/Globos.gif" /><br /><br /><br />
+            <img src="images/gif/Globos.gif" /><br />
+        </div>        
+        <div id="dw2" class="bgspliter"></div>
+        <div id="dw3" class="bgspliter"></div>
+        <div id="dw4" class="bgspliter" style="text-align: center">
+            <a href="#" onclick="reloadGame();">
+                <img id="gnstImg" src="images/ganaste.gif" width="700" style="position:absolute; top:20px; left: 30%" />
+            </a><br />
+            <img src="images/gif/saljut.gif" style="margin-top: 150px" />
+        </div>
+        <div id="dw5" class="bgspliter"></div>
+        <div id="dw6" class="bgspliter" style="text-align: right">
+            <img src="images/gif/fuegos.gif" /><br />
+            <img src="images/gif/Globos.gif" /><br /><br /><br />
+            <img src="images/gif/Globos.gif" /><br />
+        </div>
+    </div>
+
+    <div id="loser-content">
+        <div id="wccentr">
+            <a href="#" onclick="reloadGame();">
+                <img src="images/PERDISTE.png" width="700" />
+            </a>
+        </div>
+    </div>
+
+    <audio id="sound" src="sounds/slot_machine.mp3" style="display: none" controls></audio>
+    <audio id="win-sound" src="sounds/win.mp3" style="display: none" controls loop></audio>
+    <audio id="m-sound" src="sounds/m.mp3" style="display: none" controls loop></audio>
+    <audio id="los-sound" src="sounds/cua.mp3" style="display: none" controls loop></audio>
+
+    <script src="js/jquery-1.12.1.min.js"></script>
+    <script src="js/jquery-ui.min.js"></script>
+    <script src="js/roulette.min.js"></script>
+    <script src="js/rotate.js"></script>
+
+    <script src="js/script.js"></script>
+
+</body>
+</html>

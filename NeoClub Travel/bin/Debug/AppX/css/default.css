@@ -1,0 +1,171 @@
+﻿html, body {
+    font-family: Segoe UI,Frutiger,Frutiger Linotype,Dejavu Sans,Helvetica Neue,Arial,sans-serif;
+    font-size: 14px;
+    height: 100%;
+    margin: 0px;
+    padding: 0px;
+    background-size: cover;
+    overflow:hidden;
+}
+
+a img {
+    border: 0;
+}
+
+#loading {
+    height: 100%;
+    background-color: rgb(27,07,11);
+}
+
+#imagen-load {
+    position: relative;
+    top: 25%;
+    width: 500px;
+    margin: 0 auto;
+}
+
+#container {
+    position:relative;
+    margin:0 auto;
+    margin-top:300px;
+    height:1px;
+    overflow:auto;
+}
+
+#controls {
+    width: 100%;
+    text-align: center;
+    clear: both;
+}
+
+#controls #btnStart {
+    margin-top: 100px;
+    width:247px;
+    height:71px;
+    border:0;
+    border-radius: 7px;
+    background: url(../images/bj.png);
+}
+
+#controls #btnStart:hover {
+    background-color: #0297F3;
+}
+
+
+#roulette-cont {
+    width:968px;
+    margin: 0 auto;
+    clear:both;
+}
+
+.roucont {
+    background-color: rgba(2,88,142,.6);
+    padding: 0 8px;
+    border-radius: 100%;
+    height: 300px!important;
+    width: 300px;
+}
+
+/*.roucont img {
+    width: 250px;
+    margin-top: 20px;
+}*/
+
+.drouf {
+    float: left;
+}
+
+.roulette-inner {
+
+}
+
+.drou {
+    float: left;
+    margin-left: 10px;
+}
+
+#logo a{
+    width: 290px;
+    float: left;
+}
+
+#tries {
+    position: relative;
+    top: 30px;
+    text-align: right;
+    font-size: 2.5em;
+}
+
+#triescont {
+    background-color: rgba(255,255,255,.5);
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+    padding-right: 50px;
+    border: 0;
+    border-top-left-radius: 10px;
+    border-bottom-left-radius: 10px;
+}
+
+#triescont img {
+    vertical-align: sub;
+}
+
+#numtries {
+    font-weight: bold;
+}
+
+#winner-content {
+    display: none;
+    position:absolute;
+    width: 100%;
+    height: 100%;
+    z-index: 999999999;
+    top:0;
+    left:0;
+    background-color: rgba(255, 255, 255, .4)!important;
+}
+
+#loser-content {
+    display: none;
+    position:absolute;
+    width: 100%;
+    height: 100%;
+    z-index: 999999991;
+    top:0;
+    left:0;
+    background-color: rgba(255, 255, 255, .4);
+}
+
+#winner-content #wccentr, #loser-content #wccentr {
+    width:700px;
+    margin:200px auto;
+    text-align:center;
+}
+
+#winner-content .bgspliter {
+    float: left;
+    width: 16.66666666666667%;
+    height: 100%;
+}
+
+#splitted-screen {
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    z-index: 999;
+    background-size: cover;
+}
+
+#splitted-screen #left-option, #right-option {
+    width: 50%;
+    height: 100%;
+}
+
+#splitted-screen #left-option {
+    float: left
+}
+
+#splitted-screen #right-option {
+    float: left;
+}

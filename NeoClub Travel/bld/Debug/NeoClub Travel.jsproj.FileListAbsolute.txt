@@ -1,0 +1,13 @@
+c:\users\desarrollo3\documents\visual studio 2012\Projects\NeoClub Travel\NeoClub Travel\bin\Debug\resources.pri
+c:\users\desarrollo3\documents\visual studio 2012\Projects\NeoClub Travel\NeoClub Travel\bin\Debug\AppxManifest.xml
+c:\users\desarrollo3\documents\visual studio 2012\Projects\NeoClub Travel\NeoClub Travel\bin\Debug\NeoClub Travel.build.appxrecipe
+c:\users\desarrollo3\documents\visual studio 2012\Projects\NeoClub Travel\NeoClub Travel\bld\Debug\priconfig.xml
+c:\users\desarrollo3\documents\visual studio 2012\Projects\NeoClub Travel\NeoClub Travel\bld\Debug\layout.resfiles
+c:\users\desarrollo3\documents\visual studio 2012\Projects\NeoClub Travel\NeoClub Travel\bld\Debug\resources.resfiles
+c:\users\desarrollo3\documents\visual studio 2012\Projects\NeoClub Travel\NeoClub Travel\bld\Debug\pri.resfiles
+c:\users\desarrollo3\documents\visual studio 2012\Projects\NeoClub Travel\NeoClub Travel\bld\Debug\LanguageQualifiers.txt
+c:\users\desarrollo3\documents\visual studio 2012\Projects\NeoClub Travel\NeoClub Travel\bld\Debug\ProjectArchitectures.txt
+c:\users\desarrollo3\documents\visual studio 2012\Projects\NeoClub Travel\NeoClub Travel\bld\Debug\priconfig.xml.intermediate
+c:\users\desarrollo3\documents\visual studio 2012\Projects\NeoClub Travel\NeoClub Travel\bld\Debug\layout.resfiles.intermediate
+c:\users\desarrollo3\documents\visual studio 2012\Projects\NeoClub Travel\NeoClub Travel\bld\Debug\resources.resfiles.intermediate
+c:\users\desarrollo3\documents\visual studio 2012\Projects\NeoClub Travel\NeoClub Travel\bld\Debug\pri.resfiles.intermediate

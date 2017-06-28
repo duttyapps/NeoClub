@@ -1,0 +1,294 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>DESA3</Machine>
+    <WindowsUser>desarrollo3</WindowsUser>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\desarrollo3\documents\visual studio 2012\Projects\NeoClub Travel\NeoClub Travel\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\desarrollo3\documents\visual studio 2012\Projects\NeoClub Travel\NeoClub Travel\default.html">
+      <PackagePath>default.html</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\desarrollo3\documents\visual studio 2012\Projects\NeoClub Travel\NeoClub Travel\game.html">
+      <PackagePath>game.html</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\desarrollo3\documents\visual studio 2012\Projects\NeoClub Travel\NeoClub Travel\images\1x1.png">
+      <PackagePath>images\1x1.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\desarrollo3\documents\visual studio 2012\Projects\NeoClub Travel\NeoClub Travel\images\arequipaslot.png">
+      <PackagePath>images\arequipaslot.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\desarrollo3\documents\visual studio 2012\Projects\NeoClub Travel\NeoClub Travel\images\bj.png">
+      <PackagePath>images\bj.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\desarrollo3\documents\visual studio 2012\Projects\NeoClub Travel\NeoClub Travel\images\cancunslot.png">
+      <PackagePath>images\cancunslot.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\desarrollo3\documents\visual studio 2012\Projects\NeoClub Travel\NeoClub Travel\images\cartagenaslot.png">
+      <PackagePath>images\cartagenaslot.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\desarrollo3\documents\visual studio 2012\Projects\NeoClub Travel\NeoClub Travel\images\coin.png">
+      <PackagePath>images\coin.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\desarrollo3\documents\visual studio 2012\Projects\NeoClub Travel\NeoClub Travel\images\cuzcoslot.png">
+      <PackagePath>images\cuzcoslot.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\desarrollo3\documents\visual studio 2012\Projects\NeoClub Travel\NeoClub Travel\images\ejeslot.png">
+      <PackagePath>images\ejeslot.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\desarrollo3\documents\visual studio 2012\Projects\NeoClub Travel\NeoClub Travel\images\iguazuslot.png">
+      <PackagePath>images\iguazuslot.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\desarrollo3\documents\visual studio 2012\Projects\NeoClub Travel\NeoClub Travel\images\iquitosslot.png">
+      <PackagePath>images\iquitosslot.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\desarrollo3\documents\visual studio 2012\Projects\NeoClub Travel\NeoClub Travel\images\logo-medium.png">
+      <PackagePath>images\logo-medium.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\desarrollo3\documents\visual studio 2012\Projects\NeoClub Travel\NeoClub Travel\images\logo-neomundo.png">
+      <PackagePath>images\logo-neomundo.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\desarrollo3\documents\visual studio 2012\Projects\NeoClub Travel\NeoClub Travel\images\logo.png">
+      <PackagePath>images\logo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\desarrollo3\documents\visual studio 2012\Projects\NeoClub Travel\NeoClub Travel\images\logo.scale-100.png">
+      <PackagePath>images\logo.scale-100.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\desarrollo3\documents\visual studio 2012\Projects\NeoClub Travel\NeoClub Travel\images\logoslot.png">
+      <PackagePath>images\logoslot.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\desarrollo3\documents\visual studio 2012\Projects\NeoClub Travel\NeoClub Travel\images\orlandoslot.png">
+      <PackagePath>images\orlandoslot.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\desarrollo3\documents\visual studio 2012\Projects\NeoClub Travel\NeoClub Travel\images\panamaslot.png">
+      <PackagePath>images\panamaslot.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\desarrollo3\documents\visual studio 2012\Projects\NeoClub Travel\NeoClub Travel\images\PERDISTE.png">
+      <PackagePath>images\PERDISTE.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\desarrollo3\documents\visual studio 2012\Projects\NeoClub Travel\NeoClub Travel\images\rmayaslot.png">
+      <PackagePath>images\rmayaslot.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\desarrollo3\documents\visual studio 2012\Projects\NeoClub Travel\NeoClub Travel\images\sanandresslot.png">
+      <PackagePath>images\sanandresslot.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\desarrollo3\documents\visual studio 2012\Projects\NeoClub Travel\NeoClub Travel\images\smalllogo.png">
+      <PackagePath>images\smalllogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\desarrollo3\documents\visual studio 2012\Projects\NeoClub Travel\NeoClub Travel\images\smalllogo.scale-100.png">
+      <PackagePath>images\smalllogo.scale-100.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\desarrollo3\documents\visual studio 2012\Projects\NeoClub Travel\NeoClub Travel\images\splashscreen.png">
+      <PackagePath>images\splashscreen.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\desarrollo3\documents\visual studio 2012\Projects\NeoClub Travel\NeoClub Travel\images\splashscreen.scale-100.png">
+      <PackagePath>images\splashscreen.scale-100.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\desarrollo3\documents\visual studio 2012\Projects\NeoClub Travel\NeoClub Travel\images\storelogo.png">
+      <PackagePath>images\storelogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\desarrollo3\documents\visual studio 2012\Projects\NeoClub Travel\NeoClub Travel\images\storelogo.scale-100.png">
+      <PackagePath>images\storelogo.scale-100.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\desarrollo3\documents\visual studio 2012\Projects\NeoClub Travel\NeoClub Travel\images\varaderoslot.png">
+      <PackagePath>images\varaderoslot.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\desarrollo3\documents\visual studio 2012\Projects\NeoClub Travel\NeoClub Travel\images\ganaste.gif">
+      <PackagePath>images\ganaste.gif</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\desarrollo3\documents\visual studio 2012\Projects\NeoClub Travel\NeoClub Travel\images\gif\fuegos.gif">
+      <PackagePath>images\gif\fuegos.gif</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\desarrollo3\documents\visual studio 2012\Projects\NeoClub Travel\NeoClub Travel\images\gif\Globos.gif">
+      <PackagePath>images\gif\Globos.gif</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\desarrollo3\documents\visual studio 2012\Projects\NeoClub Travel\NeoClub Travel\images\gif\saljut.gif">
+      <PackagePath>images\gif\saljut.gif</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\desarrollo3\documents\visual studio 2012\Projects\NeoClub Travel\NeoClub Travel\images\reward\3r.jpg">
+      <PackagePath>images\reward\3r.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\desarrollo3\documents\visual studio 2012\Projects\NeoClub Travel\NeoClub Travel\images\reward\arequipa.jpg">
+      <PackagePath>images\reward\arequipa.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\desarrollo3\documents\visual studio 2012\Projects\NeoClub Travel\NeoClub Travel\images\reward\cartagena.jpg">
+      <PackagePath>images\reward\cartagena.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\desarrollo3\documents\visual studio 2012\Projects\NeoClub Travel\NeoClub Travel\images\reward\cuzco.jpg">
+      <PackagePath>images\reward\cuzco.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\desarrollo3\documents\visual studio 2012\Projects\NeoClub Travel\NeoClub Travel\images\reward\iguazu.jpg">
+      <PackagePath>images\reward\iguazu.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\desarrollo3\documents\visual studio 2012\Projects\NeoClub Travel\NeoClub Travel\images\reward\iquitos.jpg">
+      <PackagePath>images\reward\iquitos.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\desarrollo3\documents\visual studio 2012\Projects\NeoClub Travel\NeoClub Travel\images\reward\panama.jpg">
+      <PackagePath>images\reward\panama.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\desarrollo3\documents\visual studio 2012\Projects\NeoClub Travel\NeoClub Travel\images\reward\sanandres.jpg">
+      <PackagePath>images\reward\sanandres.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\desarrollo3\documents\visual studio 2012\Projects\NeoClub Travel\NeoClub Travel\images\screensaver\screensaver-1.jpg">
+      <PackagePath>images\screensaver\screensaver-1.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\desarrollo3\documents\visual studio 2012\Projects\NeoClub Travel\NeoClub Travel\images\screensaver\screensaver-10.jpg">
+      <PackagePath>images\screensaver\screensaver-10.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\desarrollo3\documents\visual studio 2012\Projects\NeoClub Travel\NeoClub Travel\images\screensaver\screensaver-11.jpg">
+      <PackagePath>images\screensaver\screensaver-11.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\desarrollo3\documents\visual studio 2012\Projects\NeoClub Travel\NeoClub Travel\images\screensaver\screensaver-12.jpg">
+      <PackagePath>images\screensaver\screensaver-12.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\desarrollo3\documents\visual studio 2012\Projects\NeoClub Travel\NeoClub Travel\images\screensaver\screensaver-13.jpg">
+      <PackagePath>images\screensaver\screensaver-13.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\desarrollo3\documents\visual studio 2012\Projects\NeoClub Travel\NeoClub Travel\images\screensaver\screensaver-14.jpg">
+      <PackagePath>images\screensaver\screensaver-14.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\desarrollo3\documents\visual studio 2012\Projects\NeoClub Travel\NeoClub Travel\images\screensaver\screensaver-15.jpg">
+      <PackagePath>images\screensaver\screensaver-15.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\desarrollo3\documents\visual studio 2012\Projects\NeoClub Travel\NeoClub Travel\images\screensaver\screensaver-16.jpg">
+      <PackagePath>images\screensaver\screensaver-16.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\desarrollo3\documents\visual studio 2012\Projects\NeoClub Travel\NeoClub Travel\images\screensaver\screensaver-17.jpg">
+      <PackagePath>images\screensaver\screensaver-17.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\desarrollo3\documents\visual studio 2012\Projects\NeoClub Travel\NeoClub Travel\images\screensaver\screensaver-18.jpg">
+      <PackagePath>images\screensaver\screensaver-18.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\desarrollo3\documents\visual studio 2012\Projects\NeoClub Travel\NeoClub Travel\images\screensaver\screensaver-19.jpg">
+      <PackagePath>images\screensaver\screensaver-19.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\desarrollo3\documents\visual studio 2012\Projects\NeoClub Travel\NeoClub Travel\images\screensaver\screensaver-2.jpg">
+      <PackagePath>images\screensaver\screensaver-2.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\desarrollo3\documents\visual studio 2012\Projects\NeoClub Travel\NeoClub Travel\images\screensaver\screensaver-3.jpg">
+      <PackagePath>images\screensaver\screensaver-3.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\desarrollo3\documents\visual studio 2012\Projects\NeoClub Travel\NeoClub Travel\images\screensaver\screensaver-4.jpg">
+      <PackagePath>images\screensaver\screensaver-4.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\desarrollo3\documents\visual studio 2012\Projects\NeoClub Travel\NeoClub Travel\images\screensaver\screensaver-5.jpg">
+      <PackagePath>images\screensaver\screensaver-5.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\desarrollo3\documents\visual studio 2012\Projects\NeoClub Travel\NeoClub Travel\images\screensaver\screensaver-6.jpg">
+      <PackagePath>images\screensaver\screensaver-6.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\desarrollo3\documents\visual studio 2012\Projects\NeoClub Travel\NeoClub Travel\images\screensaver\screensaver-7.jpg">
+      <PackagePath>images\screensaver\screensaver-7.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\desarrollo3\documents\visual studio 2012\Projects\NeoClub Travel\NeoClub Travel\images\screensaver\screensaver-8.jpg">
+      <PackagePath>images\screensaver\screensaver-8.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\desarrollo3\documents\visual studio 2012\Projects\NeoClub Travel\NeoClub Travel\images\screensaver\screensaver-9.jpg">
+      <PackagePath>images\screensaver\screensaver-9.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\desarrollo3\documents\visual studio 2012\Projects\NeoClub Travel\NeoClub Travel\images\wallpaper\wallpaper-1.jpg">
+      <PackagePath>images\wallpaper\wallpaper-1.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\desarrollo3\documents\visual studio 2012\Projects\NeoClub Travel\NeoClub Travel\images\wallpaper\wallpaper-10.jpg">
+      <PackagePath>images\wallpaper\wallpaper-10.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\desarrollo3\documents\visual studio 2012\Projects\NeoClub Travel\NeoClub Travel\images\wallpaper\wallpaper-11.jpg">
+      <PackagePath>images\wallpaper\wallpaper-11.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\desarrollo3\documents\visual studio 2012\Projects\NeoClub Travel\NeoClub Travel\images\wallpaper\wallpaper-12.jpg">
+      <PackagePath>images\wallpaper\wallpaper-12.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\desarrollo3\documents\visual studio 2012\Projects\NeoClub Travel\NeoClub Travel\images\wallpaper\wallpaper-13.jpg">
+      <PackagePath>images\wallpaper\wallpaper-13.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\desarrollo3\documents\visual studio 2012\Projects\NeoClub Travel\NeoClub Travel\images\wallpaper\wallpaper-14.jpg">
+      <PackagePath>images\wallpaper\wallpaper-14.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\desarrollo3\documents\visual studio 2012\Projects\NeoClub Travel\NeoClub Travel\images\wallpaper\wallpaper-15.jpg">
+      <PackagePath>images\wallpaper\wallpaper-15.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\desarrollo3\documents\visual studio 2012\Projects\NeoClub Travel\NeoClub Travel\images\wallpaper\wallpaper-16.jpg">
+      <PackagePath>images\wallpaper\wallpaper-16.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\desarrollo3\documents\visual studio 2012\Projects\NeoClub Travel\NeoClub Travel\images\wallpaper\wallpaper-2.jpg">
+      <PackagePath>images\wallpaper\wallpaper-2.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\desarrollo3\documents\visual studio 2012\Projects\NeoClub Travel\NeoClub Travel\images\wallpaper\wallpaper-3.jpg">
+      <PackagePath>images\wallpaper\wallpaper-3.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\desarrollo3\documents\visual studio 2012\Projects\NeoClub Travel\NeoClub Travel\images\wallpaper\wallpaper-4.jpg">
+      <PackagePath>images\wallpaper\wallpaper-4.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\desarrollo3\documents\visual studio 2012\Projects\NeoClub Travel\NeoClub Travel\images\wallpaper\wallpaper-5.jpg">
+      <PackagePath>images\wallpaper\wallpaper-5.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\desarrollo3\documents\visual studio 2012\Projects\NeoClub Travel\NeoClub Travel\images\wallpaper\wallpaper-6.jpg">
+      <PackagePath>images\wallpaper\wallpaper-6.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\desarrollo3\documents\visual studio 2012\Projects\NeoClub Travel\NeoClub Travel\images\wallpaper\wallpaper-7.jpg">
+      <PackagePath>images\wallpaper\wallpaper-7.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\desarrollo3\documents\visual studio 2012\Projects\NeoClub Travel\NeoClub Travel\images\wallpaper\wallpaper-8.jpg">
+      <PackagePath>images\wallpaper\wallpaper-8.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\desarrollo3\documents\visual studio 2012\Projects\NeoClub Travel\NeoClub Travel\images\wallpaper\wallpaper-9.jpg">
+      <PackagePath>images\wallpaper\wallpaper-9.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\desarrollo3\documents\visual studio 2012\Projects\NeoClub Travel\NeoClub Travel\js\default.js">
+      <PackagePath>js\default.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\desarrollo3\documents\visual studio 2012\Projects\NeoClub Travel\NeoClub Travel\js\jquery-1.12.1.min.js">
+      <PackagePath>js\jquery-1.12.1.min.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\desarrollo3\documents\visual studio 2012\Projects\NeoClub Travel\NeoClub Travel\js\jquery-ui.min.js">
+      <PackagePath>js\jquery-ui.min.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\desarrollo3\documents\visual studio 2012\Projects\NeoClub Travel\NeoClub Travel\js\rotate.js">
+      <PackagePath>js\rotate.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\desarrollo3\documents\visual studio 2012\Projects\NeoClub Travel\NeoClub Travel\js\roulette.min.js">
+      <PackagePath>js\roulette.min.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\desarrollo3\documents\visual studio 2012\Projects\NeoClub Travel\NeoClub Travel\js\script.js">
+      <PackagePath>js\script.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\desarrollo3\documents\visual studio 2012\Projects\NeoClub Travel\NeoClub Travel\css\default.css">
+      <PackagePath>css\default.css</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\desarrollo3\documents\visual studio 2012\Projects\NeoClub Travel\NeoClub Travel\sounds\cua.mp3">
+      <PackagePath>sounds\cua.mp3</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\desarrollo3\documents\visual studio 2012\Projects\NeoClub Travel\NeoClub Travel\sounds\m.mp3">
+      <PackagePath>sounds\m.mp3</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\desarrollo3\documents\visual studio 2012\Projects\NeoClub Travel\NeoClub Travel\sounds\slot_machine.mp3">
+      <PackagePath>sounds\slot_machine.mp3</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\desarrollo3\documents\visual studio 2012\Projects\NeoClub Travel\NeoClub Travel\sounds\win.mp3">
+      <PackagePath>sounds\win.mp3</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\desarrollo3\documents\visual studio 2012\Projects\NeoClub Travel\NeoClub Travel\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.0\ExtensionSDKs\Microsoft.WinJS.1.0\1.0\">
+      <Name>Microsoft.WinJS.1.0</Name>
+      <Version>1.0.8514.0</Version>
+      <Architecture>Neutral</Architecture>
+      <FrameworkIdentity>Name=Microsoft.WinJS.1.0, MinVersion=1.0.8514.0</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.0\ExtensionSDKs\Microsoft.WinJS.1.0\1.0\Microsoft.WinJS.1.0.appx</AppxLocation>
+    </ResolvedSDKReference>
+  </ItemGroup>
+</Project>
